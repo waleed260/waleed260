@@ -21,6 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=waleed260&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->https://github.com/waleed260/work_buddy
+https://github.com/waleed260/Python_skill
 
 
 
