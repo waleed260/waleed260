@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 HELLO: I am   Waleed Hassan: I’m currently working on: Building Agentic AI systems and visual automation workflows.<br>  I’m looking to collaborate on: Open-source Agentic AI frameworks, data-driven Python projects, low-code workflows, N8N , Zapier, Make.com, and Vapi.<br>🤝 I’m looking for help with: Mastering advanced RAG (Retrieval-Augmented Generation) and scaling multi-agent systems.<br>🌱 I’m currently learning: Agentic workflows and advanced PyTorch.<br>💬 Ask me about: Python automation, Ubuntu/Linux workflows.<br>⚡ Fun fact: I can set up a full development environment in the terminal faster than most people can open a browser.
-website link : https://waleed260.github.io/waleed-portfolio/
+website link : 
 
 
 ## 🌐 Socials:
