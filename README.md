@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=280&section=header&text=WALEED%20HASSAN&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Agentic%20AI%20%26%20Automation%20Developer&descSize=22&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=280&section=header&text=WALEED%20HASSAN&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Agentic%20AI%20and%20Automation%20Developer&descSize=22&descAlignY=55&descAlign=50" />
 
 <!-- Typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Agentic+AI+Systems;%F0%9F%A7%A9+Designing+Visual+Automation+Workflows;%E2%9A%A1+RAG+%2B+Multi-Agent+Architectures;%F0%9F%92%A1+Python+%7C+n8n+%7C+Zapier+%7C+Make.com+%7C+Vapi" alt="Typing SVG" />
@@ -53,9 +53,9 @@ const waleed: Developer = {
 
 ### ⚙️ <u>**Automation & Low-Code**</u>
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?logo=make&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" />
 </p>
 
