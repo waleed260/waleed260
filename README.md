@@ -1,29 +1,130 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
-# 💫 About Me:
-HELLO: I am   Waleed Hassan: I’m currently working on: Building Agentic AI systems and visual automation workflows.<br>  I’m looking to collaborate on: Open-source Agentic AI frameworks, data-driven Python projects, low-code workflows, N8N , Zapier, Make.com, and Vapi.<br>🤝 I’m looking for help with: Mastering advanced RAG (Retrieval-Augmented Generation) and scaling multi-agent systems.<br>🌱 I’m currently learning: Agentic workflows and advanced PyTorch.<br>💬 Ask me about: Python automation, Ubuntu/Linux workflows.<br>⚡ Fun fact: I can set up a full development environment in the terminal faster than most people can open a browser.
-website link : 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Waleed%20Hassan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20%26%20Automation%20Developer&descAlignY=55&descSize=18)
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Designing+Visual+Automation+Workflows;RAG+%2B+Multi-Agent+Architectures;Python+%7C+N8N+%7C+Zapier+%7C+Make.com+%7C+Vapi" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waleed__o16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-hassan-20438b3a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vkdeku20@gmail.com) 
+![Profile Views](https://komarev.com/ghpvc/?username=waleed260&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/waleed260?color=7dd3fc&style=flat-square&label=Followers)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=waleed260&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=waleed260&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->https://github.com/waleed260/work_buddy
-https://github.com/waleed260/Python_skill
+### 🧠 Who I Am
 
+```typescript
+const waleedHassan = {
+  title: "Agentic AI & Automation Developer",
+  stack: {
+    languages: ["Python", "HTML5", "CSS3", "Markdown"],
+    frameworks: ["Flask", "FastAPI", "Django", "Node.js"],
+    ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "Pandas"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Supabase"],
+    cloud_devops: ["AWS", "Oracle", "Vercel", "Firebase", "Docker", "Git", "GitHub"],
+    automation: ["n8n", "Zapier", "Make.com", "Vapi"],
+    design_tools: ["Adobe Photoshop", "Adobe", "Blender", "Canva"],
+    testing_pm: ["Postman", "Playwright", "Jira", "Power BI"]
+  },
+  currentlyBuilding: "Agentic AI systems & visual automation workflows",
+  currentlyLearning: ["Agentic workflows", "Advanced PyTorch"],
+  seekingCollaboration: [
+    "Open-source Agentic AI frameworks",
+    "Data-driven Python projects",
+    "Low-code workflows (n8n, Zapier, Make.com, Vapi)"
+  ],
+  seekingHelp: "Advanced RAG & scaling multi-agent systems",
+  funFact: "Can spin up a full dev environment in the terminal faster than most people open a browser 🚀"
+};
+```
 
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Skills](https://skillicons.dev/icons?i=py,html,css,md)
+
+**Backend & Frameworks**
+![Skills](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs)
+
+**AI / ML & Data**
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas)
+
+**Databases**
+![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase)
+
+**Cloud & DevOps**
+![Skills](https://skillicons.dev/icons?i=aws,oracle,vercel,firebase,docker,git,github)
+
+**Design & Testing**
+![Skills](https://skillicons.dev/icons?i=ps,blender,postman,playwright)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=waleed260&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&icon_color=7dd3fc&bg_color=0,1a1b27,1a1b27" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed260&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=0,1a1b27,1a1b27" />
+
+<img src="https://streak-stats.demolab.com?user=waleed260&theme=nord&hide_border=true&border_radius=8&background=1a1b27&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=waleed260&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waleed260&theme=react-dark&hide_border=true&bg_color=1a1b27&color=7dd3fc&line=7dd3fc&point=ffffff)
+
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=waleed260&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waleed__o16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-hassan-20438b3a8/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vkdeku20@gmail.com)
+
+</div>
+
+<div align="center">
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=waleed260&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer)
 
 
