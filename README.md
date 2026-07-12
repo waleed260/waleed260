@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Waleed%20Hassan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20%26%20Automation%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Waleed%20Hassan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20%26%20Automation%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Designing+Visual+Automation+Workflows;RAG+%2B+Multi-Agent+Architectures;Python+%7C+N8N+%7C+Zapier+%7C+Make.com+%7C+Vapi" alt="Typing SVG" />
@@ -13,32 +13,40 @@
 
 ---
 
-### 🧠 Who I Am
+### 🧠 About Me
 
-```typescript
-const waleedHassan = {
-  title: "Agentic AI & Automation Developer",
-  stack: {
-    languages: ["Python", "HTML5", "CSS3", "Markdown"],
-    frameworks: ["Flask", "FastAPI", "Django", "Node.js"],
-    ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "Pandas"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Supabase"],
-    cloud_devops: ["AWS", "Oracle", "Vercel", "Firebase", "Docker", "Git", "GitHub"],
-    automation: ["n8n", "Zapier", "Make.com", "Vapi"],
-    design_tools: ["Adobe Photoshop", "Adobe", "Blender", "Canva"],
-    testing_pm: ["Postman", "Playwright", "Jira", "Power BI"]
-  },
-  currentlyBuilding: "Agentic AI systems & visual automation workflows",
-  currentlyLearning: ["Agentic workflows", "Advanced PyTorch"],
-  seekingCollaboration: [
-    "Open-source Agentic AI frameworks",
-    "Data-driven Python projects",
-    "Low-code workflows (n8n, Zapier, Make.com, Vapi)"
-  ],
-  seekingHelp: "Advanced RAG & scaling multi-agent systems",
-  funFact: "Can spin up a full dev environment in the terminal faster than most people open a browser 🚀"
-};
-```
+- 🔭 **Currently building:** Agentic AI systems & visual automation workflows
+- 🌱 **Currently learning:** Agentic workflows, Advanced PyTorch
+- 🤝 **Open to collaborate on:** Open-source Agentic AI frameworks, data-driven Python projects, low-code workflows (n8n, Zapier, Make.com, Vapi)
+- 💬 **Looking for help with:** Advanced RAG (Retrieval-Augmented Generation) & scaling multi-agent systems
+- ⚡ **Fun fact:** I can set up a full dev environment in the terminal faster than most people open a browser
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🧩 Core Focus**
+| | |
+|---|---|
+| Role | Agentic AI & Automation Developer |
+| Focus | RAG, Multi-Agent Systems, LLM Workflows |
+| Automation | n8n · Zapier · Make.com · Vapi |
+| Status | 🟢 Actively building & learning |
+
+</td>
+<td valign="top" width="50%">
+
+**📌 Quick Facts**
+| | |
+|---|---|
+| Based in | Automation & AI engineering |
+| Ask me about | Python automation, Linux workflows |
+| Languages | Python, HTML, CSS |
+| Interests | Open-source, Data pipelines |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,5 +134,3 @@ const waleedHassan = {
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer)
-
-
