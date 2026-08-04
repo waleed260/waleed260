@@ -122,8 +122,8 @@ const waleed: Developer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=waleed260&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed260&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
+<img height="165" src="https://github-readme-stats-50tnoih8m.vercel.app/api?username=waleed260&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
+<img height="165" src="https://github-readme-stats-50tnoih8m.vercel.app/api/top-langs/?username=waleed260&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
 
 <br>
 
@@ -131,7 +131,7 @@ const waleed: Developer = {
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=waleed260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-23pqbcbyb.vercel.app/?username=waleed260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 <br>
 
@@ -143,7 +143,7 @@ const waleed: Developer = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=waleed260&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats-4l43wug0m.vercel.app/api?username=waleed260&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -162,8 +162,6 @@ const waleed: Developer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waleed260/waleed260/output/github-snake.svg" width="100%" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/waleed260/waleed260/output/github-snake.svg" width="100%" />
 </picture>
-
-<sub>⚠️ Requires a GitHub Action (Platane/snk) to be set up in this repo — ask me and I'll generate the workflow file.</sub>
 
 </div>
 
