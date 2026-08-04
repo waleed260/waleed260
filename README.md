@@ -122,8 +122,8 @@ const waleed: Developer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-50tnoih8m.vercel.app/api?username=waleed260&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
-<img height="165" src="https://github-readme-stats-50tnoih8m.vercel.app/api/top-langs/?username=waleed260&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
+<img height="165" src="https://github-readme-stats-nine-delta-bap3gynfsg.vercel.app/api?username=waleed260&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
+<img height="165" src="https://github-readme-stats-nine-delta-bap3gynfsg.vercel.app/api/top-langs/?username=waleed260&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
 
 <br>
 
@@ -131,7 +131,7 @@ const waleed: Developer = {
 
 <br><br>
 
-<img src="https://github-profile-trophy-23pqbcbyb.vercel.app/?username=waleed260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-kappa-one.vercel.app/?username=waleed260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 <br>
 
@@ -143,7 +143,7 @@ const waleed: Developer = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats-4l43wug0m.vercel.app/api?username=waleed260&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats-delta.vercel.app/api?username=waleed260&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
